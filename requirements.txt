@@ -21,3 +21,14 @@ pywebview
 plyer
 cryptography
 nodriver
+waitress
+g4f
+g4f[all]
+g4f[image]
+g4f[webdriver]
+g4f[webview]
+g4f[openai]
+g4f[api]
+g4f[gui]
+g4f[local]
+g4f[curl_cffi]
