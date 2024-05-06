@@ -48,7 +48,7 @@ RUN if [ "$G4F_NO_GUI" ] ; then \
   ; fi
 
 # Change background image
-COPY docker/background.png /usr/share/images/fluxbox/ubuntu-light.png
+# COPY docker/background.png /usr/share/images/fluxbox/ubuntu-light.png
 
 # Add user, fix permissions
 RUN groupadd -g $G4F_USER_ID $G4F_USER \
